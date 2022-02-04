@@ -1,0 +1,16 @@
+.circle{
+    border-radius: 100%;
+    
+    width:90px;
+    height:90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile{
+    flex:0 0 20%;
+    max-width: 20%;
+}
+.short_name{
+    color:black;
+}
